@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_AutoComplete_n_MultiAutoComplete_TextView_Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Suggestions items for autocomplete textview -->
+    <string-array name="suggest_items">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Windows</item>
+        <item>iOS</item>
+        <item>HTML</item>
+        <item>PHP</item>
+        <item>Languages</item>
+    </string-array>
+
+</resources>
